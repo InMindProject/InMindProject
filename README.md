@@ -19,3 +19,5 @@
   </div>
 
  
+## História:
+  A história do jogo retratará uma visão de como o mundo pós segunda guerra mundial seria se a Alemanha nazista fosse vitoriosa. 
